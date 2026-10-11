@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/samuelcolvin/smokeshow/commit/6e982a3d08dca518fc27cc6075c0d33916edba56",
       "git:hexsha": "6e982a3d08dca518fc27cc6075c0d33916edba56",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-11T19:06:26.082331+00:00"
     },
     {
       "@id": "https://repolex.ai/r/samuelcolvin/smokeshow/commit/875344d78675553f66ff92c6eee802a6e55c8640",
